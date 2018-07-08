@@ -40,12 +40,17 @@ nav {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Concert One', cursive;
+	font-family: 'Inconsolata', monospace;
 }
 
 #user-name {
-	font-size: 5em;
-	text-transform: uppercase;
+	font-size: 3em;
+	text-transform: capitalize;
+}
+
+#user-title {
+	font-size: 2em;
+	text-transform: capitalize;
 }
 
 .user-description {
